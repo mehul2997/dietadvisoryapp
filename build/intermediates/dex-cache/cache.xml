@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_b08af41fdbe25e229ff48815de4e57b9960da8c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_9d2a1bd6e2f210a350b3f6c86dc4dfa78f89734b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_495f85eaa7f5b8d5846cd38271e7207f31d9258b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5.1_e70121639f41ed8085d52a02cca28c9015a63f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_7f621f1c8caeba161f8e38e07b9c3cf56cc94819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_8e3a8841bdfdf539c58654212276566e624f643a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_8c69e617f98d8bc6b7a8d2b3eafbeaedf8c50e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_c04444ad28bda2e0357beaca82acb5d3ae985b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_c6f07b2a11cc47365d39f8fd4631688010a3e4a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_4d03b4ef40fb53bcae9a98eeae709292df9a1032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_215d71529035f73b7502d3e944addec886e168ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_cd54efe18984f17d8a2c69f71e3aff62daa2b7b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_b3de97ee044c812e90874c8a0a1b12900962e9ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d81cd99884bb13e7093c95fbb6f9f04934b94543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\yash\AndroidStudioProjects\DietAdvisory\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_377297aa42fb40b627fbad4cca0b397bc02bc3e6.jar" />
+    </item>
+
+</items>
